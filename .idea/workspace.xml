@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03cfc97f-c50e-42e6-8007-47a2959da8c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/Kafka/KafkaClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/Kafka/KafkaClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/Sdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/Sdk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/data/kafka/2018-11-14/api-2.json.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/data/kafka/2018-11-14/api-2.json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/data/resourcegroupstaggingapi/2017-01-26/api-2.json.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/data/resourcegroupstaggingapi/2017-01-26/api-2.json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/data/securityhub/2018-10-26/api-2.json.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/aws/aws-sdk-php/src/data/securityhub/2018-10-26/api-2.json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/composer/InstalledVersions.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependencies/Aws/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/dependencies/Aws/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/admin_view/list-products.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/admin_view/list-products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/botiga_view/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/botiga_view/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/botiga_view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/botiga_view/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/botiga_view/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/botiga_view/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/botiga_view/shop-grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/botiga_view/shop-grid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/botiga_view/user_commands.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/botiga_view/user_commands.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1kHLCF6C9fl7FrSk39yy63yjMAD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dependencies" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dependencies" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/botiga_view" />
+      <recent name="D:\Desktop\shop_php\pages\admin_view" />
+      <recent name="D:\Escritorio\shop_php\pages\admin_view" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03cfc97f-c50e-42e6-8007-47a2959da8c3" name="Default Changelist" comment="" />
+      <created>1605352441568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605352441568</updated>
+      <workItem from="1605352443094" duration="1006000" />
+      <workItem from="1605459691880" duration="2327000" />
+      <workItem from="1605632591343" duration="1819000" />
+      <workItem from="1605706829616" duration="2705000" />
+      <workItem from="1605724330265" duration="4728000" />
+      <workItem from="1605812127119" duration="3763000" />
+      <workItem from="1605879976742" duration="601000" />
+      <workItem from="1605891798170" duration="3613000" />
+      <workItem from="1605911451330" duration="5420000" />
+      <workItem from="1605953656797" duration="8382000" />
+      <workItem from="1606041429925" duration="7016000" />
+      <workItem from="1606143676579" duration="8928000" />
+      <workItem from="1606224384730" duration="19129000" />
+      <workItem from="1606308924476" duration="9133000" />
+      <workItem from="1606327368914" duration="8620000" />
+      <workItem from="1606393063342" duration="1212000" />
+      <workItem from="1606394411274" duration="256000" />
+      <workItem from="1606394676586" duration="9296000" />
+      <workItem from="1606646060583" duration="9518000" />
+      <workItem from="1606670902003" duration="1200000" />
+      <workItem from="1606678081073" duration="1802000" />
+      <workItem from="1606746705895" duration="7505000" />
+      <workItem from="1606853562274" duration="1887000" />
+      <workItem from="1606856335982" duration="2778000" />
+      <workItem from="1606907824854" duration="6320000" />
+      <workItem from="1606923222868" duration="11517000" />
+      <workItem from="1607003514248" duration="9402000" />
+      <workItem from="1607028879074" duration="1842000" />
+      <workItem from="1607080522533" duration="2971000" />
+      <workItem from="1607090582336" duration="1365000" />
+      <workItem from="1607095367016" duration="4449000" />
+      <workItem from="1607118554570" duration="3075000" />
+      <workItem from="1607172885621" duration="632000" />
+      <workItem from="1607250427322" duration="1881000" />
+      <workItem from="1607547584859" duration="367000" />
+      <workItem from="1607548697878" duration="531000" />
+      <workItem from="1607602924420" duration="6474000" />
+      <workItem from="1607610900837" duration="2940000" />
+      <workItem from="1607713192920" duration="1820000" />
+      <workItem from="1607962464880" duration="11518000" />
+      <workItem from="1608214358051" duration="7329000" />
+      <workItem from="1608231598572" duration="1397000" />
+      <workItem from="1608302847550" duration="3011000" />
+      <workItem from="1608458827635" duration="1546000" />
+      <workItem from="1608481735186" duration="14000" />
+      <workItem from="1608482800232" duration="981000" />
+      <workItem from="1609700741026" duration="1099000" />
+      <workItem from="1609701875495" duration="3595000" />
+      <workItem from="1609786704823" duration="6194000" />
+      <workItem from="1609930916742" duration="1407000" />
+      <workItem from="1609944884184" duration="4743000" />
+      <workItem from="1610041905444" duration="5302000" />
+      <workItem from="1610131564821" duration="8911000" />
+      <workItem from="1610209079299" duration="4165000" />
+      <workItem from="1610277294705" duration="2291000" />
+      <workItem from="1610378554986" duration="12457000" />
+      <workItem from="1610456530168" duration="5082000" />
+      <workItem from="1610633455255" duration="8335000" />
+      <workItem from="1610879396340" duration="23267000" />
+      <workItem from="1610983237701" duration="2838000" />
+      <workItem from="1611163773177" duration="16237000" />
+      <workItem from="1611236400491" duration="16575000" />
+      <workItem from="1611259368031" duration="1330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
